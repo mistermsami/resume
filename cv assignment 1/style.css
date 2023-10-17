@@ -1,0 +1,44 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.container{
+	width: 50%;
+	margin: 0 auto;
+	font-size: 17px;
+}
+main{
+	padding: 60px 0;
+}
+main .container{
+	padding-top: 30px;
+	background-color: #f0f0f0;
+}
+.resumetop{
+	align-items: center;
+	padding-bottom: 20px;
+}
+.resumetop img{
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+}
+.resumecontent{
+	padding: 20px;
+	background-color: #0c2b59;
+	color: #fff;
+	margin: 0 auto;
+}
+.resumecontent .left{
+	width: 25%;
+	display: inline-block;
+}
+.resumecontent .right{
+	width: 72%;
+	display: inline-block;
+	padding-left: 10px;
+	border-left: 1px solid #fff;
+}
+.resumecontent .right p{
+	padding: 15px;
+}
